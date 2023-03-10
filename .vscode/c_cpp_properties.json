@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/../../../libs/**",
+                "${workspaceFolder}/../../../libs/openFrameworks/utils/*",
+                "C:\\msys64\\mingw32\\include\\**",
+                "C:\\msys64\\mingw32\\i686-w64-mingw32",
+                "C:/Users/glery/Downloads/ProjectFolder/of_v0.11.0_msys2_release/libs/openFrameworks",
+                "${workspaceFolder}/src/Game/UI",
+                "${workspaceFolder}/src/Game/World",
+                "C:/Users/glery/Downloads/ProjectFolder/of_v0.11.0_msys2_release/libs/tess2/include",
+                "C:/Users/glery/Downloads/ProjectFolder/of_v0.11.0_msys2_release/libs/openFrameworks/events",
+                "C:/Users/glery/Downloads/ProjectFolder/of_v0.11.0_msys2_release/libs/utf8/include",
+                "C:/Users/glery/Downloads/ProjectFolder/of_v0.11.0_msys2_release/libs/glm/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.17763.0",
+            "compilerPath": "C:/msys64/mingw32/bin/gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
